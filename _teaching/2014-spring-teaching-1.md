@@ -4,7 +4,7 @@ collection: teaching
 type: "Practical Course supervision"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2020-10
+date: 2020-10-01
 location: "Berlin, Germany"
 ---
 
