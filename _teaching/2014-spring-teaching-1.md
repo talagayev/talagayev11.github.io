@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Physical Chemistry"
 collection: teaching
-type: "Undergraduate course"
+type: "Practical Course supervision"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2020-10
+location: "Berlin, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supervision of the physical chemistry practical course of the kintetics and thermodynamics experiments of the pharmacy students.
