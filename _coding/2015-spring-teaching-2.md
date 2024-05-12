@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 2"
-collection: software
+collection: coding
 type: "Workshop"
-permalink: /software/2015-spring-teaching-1
+permalink: /coding/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
