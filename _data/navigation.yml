@@ -9,9 +9,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Coding"
+  - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Coding"
+    url: /coding/  
+
   - title: "CV"
     url: /cv/
     
