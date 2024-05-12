@@ -61,6 +61,7 @@ Code
 
 Coding
 ======
+* [OpenMMDL](https://github.com/wolberlab/OpenMMDL): Interface for OpenMM protein-ligand MD simulations and interaction analysis.
   <ul>{% for post in site.coding reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
