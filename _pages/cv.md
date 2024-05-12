@@ -58,6 +58,12 @@ Code
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Coding
+======
+  <ul>{% for post in site.coding reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
