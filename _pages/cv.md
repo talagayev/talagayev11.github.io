@@ -49,22 +49,15 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Code
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [EUROPIN Summer School on Drug Design 2023](https://pharminfo.univie.ac.at/summerschool/2023/): Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists.
+* [ICCS 2022](https://iccs-nl.org/): Toll-like 8 antagonist optimization through dynamic pharmacophores.
 
+  
 Coding
 ======
 * [OpenMMDL](https://github.com/wolberlab/OpenMMDL): Interface for OpenMM protein-ligand MD simulations and interaction analysis.
-  <ul>{% for post in site.coding reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [MDIntDock](https://github.com/talagayev/MDIntDock): Docking into MD simulation frames with further ranking according to protein-ligand interactions (Early development stage)
+
   
 Service and leadership
 ======
