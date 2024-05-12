@@ -1,7 +1,7 @@
 ---
 title: "Mind the gap—deciphering GPCR pharmacology using 3D pharmacophores and artificial intelligence"
 collection: publications
-permalink: /publication/2024-10-22-mind-the-gap
+permalink: /publication/2022-10-22-mind-the-gap
 excerpt: 'A review about 3D pharmacophore application in different scenarios.'
 date: 2022-10-22
 venue: 'Pharmaceuticals'
