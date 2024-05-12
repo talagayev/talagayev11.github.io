@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Pharmacy | University of Marburg, Germany
+* Pharmacy, University of Marburg, Germany
   * October 2014 – February 2021
   * Grade Pharmacy: 2.2; Grade Approbation: 2.51
  
-* MSc Medicinal Chemistry| University of Marburg, Germany
+* MSc Medicinal Chemistry, University of Marburg, Germany
   * From October 2019
   * Master's Thesis: Docking of antipsychotic drugs and ligands to aminergic receptors
   * Supervisor: Peter Kolb, Co-supervisor: Jana Selent
