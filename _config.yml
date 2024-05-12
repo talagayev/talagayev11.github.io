@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _software
+  # _teaching
   - scope:
       path: ""
-      type: software
+      type: teaching
     values:
       layout: single
       author_profile: true
