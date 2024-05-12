@@ -80,10 +80,12 @@ Coding
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software/ Operating Systems:
+  * Linux, MOE, PyMol, LaTeX, Chimera, Mogul, Amber, NAMD, VMD, Yasara, Ligandscout, GOLD, Schrödinger (Maestro, Desmond), KNIME, ACEMD, Gromacs, TauRAMD
+* Web Servers:
+  *  GPCRdb, Uniprot, BLAST, ChEMBL, RCS PDB, OPM, CHARMM-GUI, GPCRmd
+* Python Libraries:
+  *   Pandas, NumPy, rdkit, flask, MDAnalysis, MDTraj, OpenMM, Openforcefield, Scikit-learn, Matplotlib, PLIP, Prolif, QSPRPred
+* Techniques:
+  *  Molecular Docking, Virtual Screening. Homology modelling, MD Simulations, Organic Chemistry, Drug Optimization, Method development, Machine Learning
   
