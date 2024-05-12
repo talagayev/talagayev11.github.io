@@ -5,7 +5,7 @@ permalink: /publication/2022-10-22-mind-the-gap
 excerpt: 'A review about 3D pharmacophore application in different scenarios.'
 date: 2022-10-22
 venue: 'Pharmaceuticals'
-paperurl: 'https://www.mdpi.com/1424-8247/15/11/1304'
+paperurl: 'https://doi.org/10.3390/ph15111304'
 citation: 'Noonan, T., Denzinger, K., Talagayev, V., Chen, Y., Puls, K., Wolf, C. A., ... & Wolber, G. (2022). Mind the gap—deciphering GPCR pharmacology using 3D pharmacophores and artificial intelligence. <i>Pharmaceuticals</i>, 15(11), 1304.'
 ---
 
