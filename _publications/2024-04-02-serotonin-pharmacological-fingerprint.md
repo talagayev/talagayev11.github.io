@@ -1,0 +1,12 @@
+---
+title: "Pharmacological fingerprint of antipsychotic drugs at the serotonin 5-HT2A receptor"
+collection: publications
+permalink: /publication/2024-04-02-serotonin-pharmacological-fingerprint
+excerpt: 'Paper about pharmacological fingerprint of 5-HT2A with my work revolving around molecular docking.'
+date: 2024-04-02
+venue: 'Molecular Psychiatry'
+paperurl: 'https://doi.org/10.1038/s41380-024-02531-7'
+citation: 'Gaitonde, S. A., Avet, C., de la Fuente Revenga, M., Blondel-Tepaz, E., Shahraki, A., Pastor, A. M., Talagayev, V., ... & Bouvier, M. (2024). Pharmacological fingerprint of antipsychotic drugs at the serotonin 5-HT2A receptor. <i>Molecular Psychiatry</i>, 1-12.'
+---
+
+The intricate involvement of the serotonin 5-HT2A receptor (5-HT2AR) both in schizophrenia and in the activity of antipsychotic drugs is widely acknowledged. The currently marketed antipsychotic drugs, although effective in managing the symptoms of schizophrenia to a certain extent, are not without their repertoire of serious side effects. There is a need for better therapeutics to treat schizophrenia for which understanding the mechanism of action of the current antipsychotic drugs is imperative. With bioluminescence resonance energy transfer (BRET) assays, we trace the signaling signature of six antipsychotic drugs belonging to three generations at the 5-HT2AR for the entire spectrum of signaling pathways activated by serotonin (5-HT). The antipsychotic drugs display previously unidentified pathway preference at the level of the individual Gα subunits and β-arrestins. In particular, risperidone, clozapine, olanzapine and haloperidol showed G protein-selective inverse agonist activity. In addition, G protein-selective partial agonism was found for aripiprazole and cariprazine. Pathway-specific apparent dissociation constants determined from functional analyses revealed distinct coupling-modulating capacities of the tested antipsychotics at the different 5-HT-activated pathways. Computational analyses of the pharmacological and structural fingerprints support a mechanistically based clustering that recapitulate the clinical classification (typical/first generation, atypical/second generation, third generation) of the antipsychotic drugs. The study provides a new framework to functionally classify antipsychotics that should represent a useful tool for the identification of better and safer neuropsychiatric drugs and allows formulating hypotheses on the links between specific signaling cascades and in the clinical outcomes of the existing drugs.
