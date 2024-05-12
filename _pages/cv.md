@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Pharmacy | University of Marburg, Germany
+  * October 2014 – February 2021
+  * Grade Pharmacy: 2.2; Grade Approbation: 2.51
+ 
+* MSc Medicinal Chemistry| University of Marburg, Germany
+  * From October 2019
+  * Master's Thesis: Docking of antipsychotic drugs and ligands to aminergic receptors
+  * Supervisor: Peter Kolb, Co-supervisor: Jana Selent
+  * Current Grade: 1.59
 
 Work experience
 ======
