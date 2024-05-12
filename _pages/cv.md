@@ -37,6 +37,30 @@ Internship & Research Stays
 * Research Stay, Technical University of Berlin: Faculty of Chemistry – Nunes Lab
   * From August 2023
   * Unbinding pathways of TLR8 agonists and antagonists
+
+* Research Stay, Leiden University: LACDR Medicinal Chemistry – Van Westen Lab
+  * February 2024 – April 2024
+  * Discovery of novel TLR9 Antagonists through Machine learning with further selectivity prediction towards TLR7/8
+
+* Intern, University of Warsaw: Faculty of Chemistry – Filipek Lab
+  * June 2021 – July 2021
+  * Homology modelling and MD simulations of histamine receptor dimers
+
+* Intern, University of Marburg: Institute of Chemistry – Geyer Lab
+  * April 2021 – June 2021
+  * Peptide synthesis
+ 
+* Intern, University of Marburg: Institute of Pharmacy – Kolb Lab
+  * February 2020 – March 2020
+  * Molecular docking, Virtual screening
+
+* Intern, University of Marburg: Institute of Pharmacy – Schlitzer Lab
+  * August 2018 – October 2018
+  * Synthesis of drugs against schistosomiasis
+
+* Intern, University of Marburg: Institute of Pharmacy – Schlitzer Lab
+  * March 2018
+  * Synthesis of drugs against schistosomiasis
   
 Publications
 ======
