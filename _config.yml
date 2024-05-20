@@ -21,7 +21,7 @@ repository               : "talagayev/talagayev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/talagayev"
   name             : "Valerij Talagayev"
   pronouns         : # example: "he/him"  
   bio              : "PhD Student, @Wolber Lab"
