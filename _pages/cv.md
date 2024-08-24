@@ -72,10 +72,15 @@ Talks
 ======
 * [EUROPIN Summer School on Drug Design 2023](https://pharminfo.univie.ac.at/summerschool/2023/): Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists.
 * [ICCS 2022](https://iccs-nl.org/): Toll-like 8 antagonist optimization through dynamic pharmacophores.
-  
+
+Prizes
+======
+* [MDAnalysis UGM 2024](https://www.mdanalysis.org/pages/ugm2024/): Poster Prize: 2nd Place. Poster Title: OpenMMDL: A Workflow for Molecular Dynamics Simulations of Protein-Ligand Complexes Setup, Simulation and Analysis.
+
 Coding
 ======
 * [OpenMMDL](https://github.com/wolberlab/OpenMMDL): Interface for OpenMM protein-ligand MD simulations and interaction analysis.
+* [MDonatello](https://github.com/talagayev/MDonatello): 2D small molecule visualization for MDAnalysis.
 * [MDIntDock](https://github.com/talagayev/MDIntDock): Docking into MD simulation frames with further ranking according to protein-ligand interactions (Early development stage)
 
 Skills
@@ -85,7 +90,7 @@ Skills
 * Web Servers:
   *  GPCRdb, Uniprot, BLAST, ChEMBL, RCS PDB, OPM, CHARMM-GUI, GPCRmd
 * Python Libraries:
-  *   Pandas, NumPy, rdkit, flask, MDAnalysis, MDTraj, OpenMM, Openforcefield, Scikit-learn, Matplotlib, PLIP, Prolif, QSPRPred
+  *   Pandas, NumPy, rdkit, flask, MDAnalysis, MDTraj, OpenMM, Openforcefield, Scikit-learn, Matplotlib, PLIP, Prolif, QSPRPred, IPyWidgets
 * Techniques:
   *  Molecular Docking, Virtual Screening. Homology modelling, MD Simulations, Organic Chemistry, Drug Optimization, Method development, Machine Learning
   
