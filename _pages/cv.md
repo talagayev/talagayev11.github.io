@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Experience
 ======
 * PHD Student, Free University of Berlin: Institute of Pharmacy – Wolber Lab
   * From October 2021
   * PhD Thesis: In silico design and optimization of toll-like receptor modulators
   * Research Work: Virtual screening and discovery of novel Toll-like receptor agonists and antagonists, Optimization of compounds, In silico mutational studies 
+
+* GSoC 2024 Contributor, Organization: MDAnalysis
+  * Junw 2024 – July 2024
+  * Project: [2D visualization for small molecules](https://summerofcode.withgoogle.com/programs/2024/projects/sfy3kuqc)
+  * Mentors: [Richard Gowers](https://github.com/richardjgowers), [Yuxuan Zhuang](https://github.com/yuxuanzhuang) & [Cédric Bouysset](https://github.com/cbouy)
 
 * PJ Researcher, University of Marburg: Institute of Pharmacy – Kolb Lab
   * May 2020 – October 2020
@@ -73,9 +78,10 @@ Talks
 * [EUROPIN Summer School on Drug Design 2023](https://pharminfo.univie.ac.at/summerschool/2023/): Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists.
 * [ICCS 2022](https://iccs-nl.org/): Toll-like 8 antagonist optimization through dynamic pharmacophores.
 
-Prizes
+Awards
 ======
 * [MDAnalysis UGM 2024](https://www.mdanalysis.org/pages/ugm2024/): Poster Prize: 2nd Place. Poster Title: OpenMMDL: A Workflow for Molecular Dynamics Simulations of Protein-Ligand Complexes Setup, Simulation and Analysis.
+
 
 Coding
 ======
@@ -90,7 +96,7 @@ Skills
 * Web Servers:
   *  GPCRdb, Uniprot, BLAST, ChEMBL, RCS PDB, OPM, CHARMM-GUI, GPCRmd
 * Python Libraries:
-  *   Pandas, NumPy, rdkit, flask, MDAnalysis, MDTraj, OpenMM, Openforcefield, Scikit-learn, Matplotlib, PLIP, Prolif, QSPRPred, IPyWidgets
+  *   Pandas, NumPy, rdkit, flask, MDAnalysis, MDTraj, OpenMM, Openforcefield, Scikit-learn, Matplotlib, PLIP, Prolif, QSPRPred, IPyWidgets, NetworkX
 * Techniques:
   *  Molecular Docking, Virtual Screening. Homology modelling, MD Simulations, Organic Chemistry, Drug Optimization, Method development, Machine Learning
   
